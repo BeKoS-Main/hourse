@@ -15216,7 +15216,7 @@ send(msg.chat_id,msg.id,"• للمبرمج بيرو فقط")
 end
 end
 if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or text == 'source' then
-photo = "https://t.me/SSMMSS/39"
+photo = "https://t.me/Bs_photo/2"
 local T =[[
 
 *𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘴𝘰𝘶𝘳𝘤𝘦 bekos .*
